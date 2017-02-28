@@ -1,0 +1,2 @@
+# DDTabController
+竖版仿照UITabBarController
